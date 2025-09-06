@@ -35,7 +35,7 @@ The dashboard helps understand **which states, customers, categories, and time p
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]([Madhav_Ecommerce_Store_Dashboard.png](https://github.com/Sarthak2000-09/Madhav-Ecommerce-Store-dashboard/blob/main/Madhav_Ecommerce_Store_Dashboard.png))
+![Dashboard Screenshot](https://github.com/Sarthak2000-09/Madhav-Ecommerce-Store-dashboard/blob/main/Madhav_Ecommerce_Store_Dashboard.png)
 
 ---
 
